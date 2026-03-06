@@ -1,11 +1,11 @@
 :root {
-  --bg: #0b0c10;
-  --panel: #0f1117;
-  --paper: #151a22;
+  --bg: #926e90ea;
+  --panel: #685360;
+  --paper: #796273;
   --paper-border: #242b39;
-  --text: #e8eaf0;
-  --muted: #a9afc3;
-  --accent: #7aa2ff;
+  --text: #ffffff;
+  --muted: #d7d9df;
+  --accent: #a62cdf;
 }
 
 html,
@@ -29,12 +29,12 @@ body {
   background:
     radial-gradient(
       1200px 600px at 20% -10%,
-      rgba(122, 162, 255, 0.12),
+      rgba(169, 20, 238, 0.589),
       transparent 60%
     ),
     radial-gradient(
       1000px 600px at 80% 0%,
-      rgba(110, 231, 183, 0.1),
+      rgba(212, 101, 240, 0.692),
       transparent 60%
     ),
     var(--bg);
